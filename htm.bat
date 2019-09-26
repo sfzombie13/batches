@@ -1,0 +1,1 @@
+reg add HKCU\Software\Classes\.htm /ve /t REG_SZ /d htmlfile /f

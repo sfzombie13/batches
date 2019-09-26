@@ -1,0 +1,1 @@
+reg add HKLM\Software\Configuration\CurrentApplication /v RunningApp /t REG_SZ /d False /f

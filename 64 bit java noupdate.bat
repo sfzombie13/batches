@@ -1,0 +1,1 @@
+reg add HKLM\Software\Wow6432Node\JavaSoft\Java Update\Policy /v "EnableAutoUpdateCheck" /t REG_SZ /d dword:00000000 /f
